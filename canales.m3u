@@ -5,7 +5,7 @@
 
 https://stream.ichibantv.ga:3612/live/kanadetvlive.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ani" tvg-language="Spanish" tvg-logo="https://ia600200.us.archive.org/34/items/Series-FilMovieMX/Futurama/Temporada%201/Futurama_tem-1_cap--01-PilotoEspacial3000.gif"group-title="futurama",Piloto espacial
-hls:http://tvpremiumhd.club/lista-gratuita/153019/on/live.php?id=azxtv.com/hls
+http://tvpremiumhd.club/lista-gratuita/153019/on/live.php?id=azxtv.com/hls
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo=""group-title="",ryck y mock
 https://archive.org/download/rymt02xe01/RyM_T01xE01.mp4
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Spanish" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH9e5iVo34Ur065pCTUqHzbW3Auk9dT3EzHA&usqp=CAU"group-title="",coco
